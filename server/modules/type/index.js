@@ -1,0 +1,1 @@
+export { typeRouter } from './type.controller';
